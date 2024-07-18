@@ -1,0 +1,15 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap";
+
+@import "abstracts/variables";
+
+@import "base/typography";
+
+@import "components/testimonios";
+@import "components/carousel";
+
+
+@import "./custom";
+
+@import "layout/navigation";
+@import "layout/sections";
+@import "layout//quienes-somos";
